@@ -1,7 +1,5 @@
 -- ===============================================================
--- File: create_table_examples.sql
 -- Topic: Creating Tables in SQL
--- Author: Rita Sebastian
 -- Description: Demonstrates how to create tables with different
 --              column types and constraints.
 -- ===============================================================
