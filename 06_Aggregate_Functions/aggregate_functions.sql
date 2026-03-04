@@ -1,7 +1,7 @@
 -- ===============================================================
 -- Title: Aggregate Functions
 -- Description: Demonstrates how to perform calculations on
---              groups of rows using SQL aggregate functions.
+--              groups of rows using SQL aggregate functions. 
 -- ===============================================================
 
 
