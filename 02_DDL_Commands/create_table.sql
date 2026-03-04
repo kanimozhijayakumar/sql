@@ -1,7 +1,5 @@
 -- ===============================================================
--- File: create_table.sql
 -- Topic: CREATE TABLE Command
--- Author: Rita Sebastian
 -- Description: Demonstrates how to create tables with different
 --              data types and constraints.
 -- ===============================================================
